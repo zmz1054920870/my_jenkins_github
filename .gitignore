@@ -1,0 +1,9 @@
+*.log
+env/
+report/
+.pytest_cache/
+.pycache
+__pycache__/
+*.iml
+*.pyc
+*.html
